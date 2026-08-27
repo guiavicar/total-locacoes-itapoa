@@ -215,6 +215,7 @@ ul,ol{margin:0;padding:0;list-style:none}
   box-shadow:0 4px 18px rgba(20,20,20,.06);display:flex;flex-direction:column;gap:14px;
   border-left:4px solid var(--laranja)}
 .review blockquote{margin:0;font-size:.98rem;color:var(--grafite);font-style:italic}
+.review figcaption{margin-top:auto}
 .review figcaption b{display:block;color:var(--preto);font-size:.95rem}
 .review figcaption span{font-size:.8rem;color:var(--cinza)}
 .reviews__cta{text-align:center;margin-top:40px}

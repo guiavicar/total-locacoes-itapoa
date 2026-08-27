@@ -77,7 +77,7 @@
 
   /* Reveal on scroll */
   var alvos = document.querySelectorAll(
-    '.card, .step, .review, .dif__text, .dif__list li, .info, .contact__map, .sec__head'
+    '.card, .step, .review, .dif__text, .dif__list, .info, .contact__map, .sec__head'
   );
   if ('IntersectionObserver' in window) {
     var io = new IntersectionObserver(function (entries) {
